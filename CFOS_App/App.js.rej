@@ -1,0 +1,24 @@
+diff a/CFOS_App/App.js b/CFOS_App/App.js	(rejected hunks)
+@@ -1,18 +0,14 @@
+-import { Main } from "./src/components";
+-import { Login } from "./src/components";
+-import SplashComponent from "./src/components/Splash";
+-import { createStackNavigator, createAppContainer } from "react-navigation";
+-import React from "react";
+-import { Text } from "react-native";
++
++import { Notifications } from 'expo';
+ // import { Font, Expo } from "expo";
+ import * as Font from 'expo-font';
+-const AppNavigator = createStackNavigator(
++import { registerForPushNotificationsAsync } from './src/service/Notification';const AppNavigator = createStackNavigator(
+   {
+     First: { screen: Main },
+     Main: { screen: Login }
+   },
+   {
+-    initialRouteName: "First",
++    initialRouteName: 'First',
+     defaultNavigationOptions: {
+       header: null
+     }

@@ -1,0 +1,23 @@
+.sider-container {
+  .ant-layout-sider-children {
+    display: flex;
+    flex-direction: column;
+  }
+  .bottom-logo {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.65);
+    .hide {
+      display: none;
+    }
+    img {
+      width: 34px;
+      height: 34px;
+      opacity: 0.65;
+    }
+    .version-app {
+      width: 100%;
+      font-size: 13px;
+      text-transform: initial;
+    }
+  }
+}

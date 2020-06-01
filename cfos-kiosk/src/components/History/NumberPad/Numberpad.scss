@@ -1,0 +1,26 @@
+.display-number-border{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  .display-number{
+    height: 100px;
+    position: relative;
+    background-color: #E6E6E6;
+    border-radius: 10px
+  }
+  .display-number h2{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .number-div{
+    width: 100%;
+    height: 90px;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 10px;
+    background-color: #D2D2D2;
+  }
+  

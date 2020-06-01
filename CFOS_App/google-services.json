@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "634446634586",
+    "firebase_url": "https://cfos-demo.firebaseio.com",
+    "project_id": "cfos-demo",
+    "storage_bucket": "cfos-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634446634586:android:59a40c05857861d6",
+        "android_client_info": {
+          "package_name": "cfos_app.test.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634446634586-2p2baksfafnr95er31rme3a6onkeopkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzs8g5m1lHx7AMObJysoXcXc623mwCxsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634446634586-2p2baksfafnr95er31rme3a6onkeopkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

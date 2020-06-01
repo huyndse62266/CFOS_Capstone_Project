@@ -1,0 +1,17 @@
+[
+  {
+    "roleName": "SYSTEM_ADMIN"
+  },
+  {
+    "roleName": "FOOD_COURT_MANAGER"
+  },
+  {
+    "roleName": "CASHIER"
+  },
+  {
+    "roleName": "STORE_MANAGER"
+  },
+  {
+    "roleName": "CHEF"
+  }
+]

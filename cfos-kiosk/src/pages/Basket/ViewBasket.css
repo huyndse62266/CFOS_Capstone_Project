@@ -1,0 +1,71 @@
+.scroll-basket-item-wrapper{
+    padding: 2% 4%;
+}
+.overview-basket-wrapper{
+    padding: 50% 10% 0% 0%;
+}
+.basket-title{
+    font-size: 220%;
+    font-weight: bold;
+}
+.cal-price-wrapper{
+    padding: 10% 0% 5% 0%;
+    font-size: 150%;
+    font-weight: 500
+}
+.total-price-wrapper{
+    border-top: 1px solid #DCDCDC;
+    padding: 5% 0%
+}
+.total-price-title{
+    font-weight: 600;
+    font-size: 130%
+}
+.total-price-detail{
+    font-weight: bold;
+    font-size: 160%
+}
+.button-purchase-wrapper{
+    width: 100%;
+    padding: 5% 6%;
+}
+.button-purchase-view-basket{
+    width: 100%;
+    height: 100%;
+    padding: 7% 0%;
+    background-color: #2657BE;
+    color:white;
+    font-weight: bold;
+    font-size: 150%;
+    border-radius: 10px;
+    box-shadow: 11px 11px 32px -8px rgba(38,87,190,1);
+}
+
+.basket-icon{
+    font-size: 350%;
+    margin-top: 20%;
+}
+.price-cart-view-basket{
+    font-size: 180%;
+}
+.zoomout-icon{
+    width: 25%;
+    height: 50%;
+}
+.number-dishes-wrapper{
+    background-color: #FF331C;
+    border-radius: 30px;
+    width: 30px;
+    padding: 3% 0%;
+    text-align: center;
+    z-index: 20;
+    margin-left: 35%;
+    margin-top: 20%;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 18px;
+    position: absolute;
+}
+.view-basket-container{
+    background-color: #F5F5F5
+}

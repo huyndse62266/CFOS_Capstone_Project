@@ -1,0 +1,55 @@
+.print-process-container{
+    background-color: #F6F6F6;
+    width: 100%;
+    height: 100vh;
+}
+
+.print-title-wrapper{
+    padding: 3% 0%;
+    /* text-align: center */
+}
+
+.print-title{
+    margin-top: 0.5%
+    /* text-align: center */
+}
+
+.print-icon{
+    font-size: 40px;
+    text-align: right;
+    margin-right: 1%;
+}
+
+.print-img{
+    width: 30%
+}
+
+.print-img-wrapper{
+    text-align: center;
+    padding-bottom: 5%;
+}
+.get-bill-mess-wrapper{
+    padding: 1% 2%;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    border: 4px dashed #D2D2D2;
+    border-radius: 10px
+}
+.hightlight-red{
+    color: #FF331C
+}
+
+.back-menu-print-wrapper{
+    margin-top: 5%
+}
+
+.back-icon-print{
+    font-size: 32px
+}
+
+.back-print-btn{
+    width: 100%;
+    background-color: #F5F5F5
+}

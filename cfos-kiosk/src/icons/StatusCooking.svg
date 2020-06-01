@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.723" height="48.24" viewBox="0 0 38.723 48.24">
+  <g id="Group_4233" data-name="Group 4233" transform="translate(0)">
+    <g id="Orion_salt-shaker" data-name="Orion salt-shaker" transform="translate(0 9.517)">
+      <g id="layer2">
+        <path id="Path_2588" data-name="Path 2588" d="M1369.7,284.507c-.225,0-5.554-.033-8.408-2.887l-5.272-5.273a7.561,7.561,0,0,1-2.334-5.458,11.312,11.312,0,0,1,10.222-10.22h.034a7.561,7.561,0,0,1,5.42,2.335l5.334,5.269c2.795,2.863,2.827,8.187,2.827,8.412a.749.749,0,0,1-.749.75h0a.75.75,0,0,1-.75-.749c0-.049-.035-4.942-2.39-7.355l-5.328-5.263a6.1,6.1,0,0,0-4.364-1.9h-.026a9.841,9.841,0,0,0-8.729,8.727,6.1,6.1,0,0,0,1.894,4.391l5.273,5.273c2.418,2.419,7.3,2.447,7.347,2.447a.75.75,0,0,1,0,1.5Z" transform="translate(-1353.686 -260.669)" fill="#ff7526"/>
+      </g>
+      <g id="layer1" transform="translate(14.436 14.393)">
+        <path id="Path_2589" data-name="Path 2589" d="M1384.649,299.392a.746.746,0,0,1-.53-.22l-1.737-1.737a.75.75,0,1,1,1.06-1.06l1.738,1.737a.75.75,0,0,1-.531,1.28Zm4.4-2.605a.747.747,0,0,1-.531-.22l-.868-.868a.75.75,0,0,1,1.061-1.06l.868.868a.75.75,0,0,1-.53,1.28Zm-8.809-1.8a.744.744,0,0,1-.53-.22l-2.6-2.605a.75.75,0,1,1,1.061-1.06l2.6,2.6a.75.75,0,0,1,0,1.061A.743.743,0,0,1,1380.245,294.989Zm4.405-2.605a.746.746,0,0,1-.53-.22l-2.6-2.605a.75.75,0,1,1,1.06-1.06l2.6,2.605a.75.75,0,0,1-.531,1.28Zm7.009,0a.744.744,0,0,1-.53-.22l-2.6-2.6a.75.75,0,1,1,1.061-1.06l2.6,2.605a.75.75,0,0,1-.53,1.28Zm-18.4-2.661a.747.747,0,0,1-.53-.22l-4.387-4.387a.749.749,0,0,1,0-1.06l8.773-8.773a.749.749,0,0,1,.531-.22h0a.749.749,0,0,1,.53.22l4.386,4.386a.752.752,0,0,1,0,1.061l-8.773,8.773A.748.748,0,0,1,1373.259,289.722Zm-3.326-5.137,3.326,3.327,7.712-7.714-3.325-3.325Zm15.587,1.658a.746.746,0,0,1-.531-.22l-.868-.868a.75.75,0,0,1,1.061-1.06l.868.868a.75.75,0,0,1-.53,1.28Z" transform="translate(-1368.122 -275.062)" fill="#ff7526"/>
+      </g>
+    </g>
+    <g id="Group_4231" data-name="Group 4231" transform="translate(7.027)">
+      <circle id="Ellipse_61" data-name="Ellipse 61" cx="11.1" cy="11.1" r="11.1" fill="#ff7526"/>
+    </g>
+    <g id="Group_4232" data-name="Group 4232" transform="translate(11.651 5.164)">
+      <circle id="Ellipse_62" data-name="Ellipse 62" cx="1.075" cy="1.075" r="1.075" transform="translate(7.887 0.341)" fill="#fff"/>
+      <circle id="Ellipse_63" data-name="Ellipse 63" cx="1.075" cy="1.075" r="1.075" transform="translate(3.162)" fill="#fff" opacity="0.85"/>
+      <circle id="Ellipse_64" data-name="Ellipse 64" cx="1.075" cy="1.075" r="1.075" transform="translate(0 3.471)" fill="#fff" opacity="0.7"/>
+      <circle id="Ellipse_65" data-name="Ellipse 65" cx="1.075" cy="1.075" r="1.075" transform="translate(0.732 8.162)" fill="#fff" opacity="0.55"/>
+      <circle id="Ellipse_66" data-name="Ellipse 66" cx="1.075" cy="1.075" r="1.075" transform="translate(4.847 10.456)" fill="#fff" opacity="0.4"/>
+      <circle id="Ellipse_67" data-name="Ellipse 67" cx="1.075" cy="1.075" r="1.075" transform="translate(9.253 8.657)" fill="#fff" opacity="0.25"/>
+      <circle id="Ellipse_68" data-name="Ellipse 68" cx="1.075" cy="1.075" r="1.075" transform="translate(10.513 4.104)" fill="#fff" opacity="0.1"/>
+    </g>
+  </g>
+</svg>

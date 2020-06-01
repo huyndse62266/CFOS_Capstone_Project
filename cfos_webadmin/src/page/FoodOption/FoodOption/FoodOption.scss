@@ -1,0 +1,29 @@
+.food-option-container {
+  padding-left: 260px;
+  padding-top: 2%;
+  .card {
+    padding: 20px;
+    .header-wrapper {
+      display: flex;
+      .header-page {
+        font-size: 18px;
+        font-weight: 600;
+        width: 100%;
+      }
+    }
+    .panel-item {
+      background: #f7f7f7;
+      border-radius: 4px;
+      margin-bottom: 24px;
+      border: 0;
+      overflow: hidden;
+      .sub-cate-item {
+        display: flex;
+        .text-item {
+          width: 100%;
+          padding-left: 21px;
+        }
+      }
+    }
+  }
+}

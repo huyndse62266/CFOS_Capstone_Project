@@ -1,0 +1,196 @@
+.user-button{
+    width: 90%;
+    height: 50px;
+    font-size: 25px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #d9d9d9
+}
+.cancel-button{
+    width: 90%;
+    height: 50px;
+    font-size: 17px;
+    border-bottom-left-radius: 20px;
+    background-color: #d9d9d9
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected.customclass {
+    background-color: green; /*Overriden property*/
+  }
+
+.menu-border{
+    padding: 0% 1%;
+    border-radius: 5px;
+}
+
+.back-button{
+    color: black;
+    width: 90%;
+    height: 60%;
+    /* padding: 10% 0%; */
+    border: 2px solid #D2D2D2;
+    border-radius: 10px;
+    font-size: 24px;
+    margin-top: 8%;;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold
+}
+
+.back-button-title{
+    padding: 0% 5%;
+}
+.empty-cart{
+    margin-top: 5.5%;
+    height: 80%;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    line-height: 2;
+    padding: 3% 0%;
+    border-radius: 10px;
+    border: 1px solid #D2D2D2;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+.cart-header{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 8% 0%;
+}
+
+.ant-menu-item-selected{
+    background-color: #ffffff !important;
+    color:#EB2C17 !important;
+}
+.ant-menu-item-selected a{
+    color:#EB2C17  !important;
+}
+.ant-menu-horizontal > .ant-menu-item:hover, .ant-menu-horizontal > .ant-menu-submenu:hover, .ant-menu-horizontal > .ant-menu-item-active, .ant-menu-horizontal > .ant-menu-submenu-active, .ant-menu-horizontal > .ant-menu-item-open, .ant-menu-horizontal > .ant-menu-submenu-open, .ant-menu-horizontal > .ant-menu-item-selected, .ant-menu-horizontal > .ant-menu-submenu-selected{
+    border-bottom: 2px solid #fff !important;
+}
+.ant-menu-horizontal > .ant-menu-item, .ant-menu-horizontal > .ant-menu-submenu{
+    top: 0 !important
+}
+.menu-icon{
+    font-size: 30px !important;
+    margin-right: 3%
+}
+
+.ant-menu-item-selected  .menu-title {
+    border-bottom: 2px solid #EB2C17 !important;
+}
+
+.view-basket-modal .ant-modal-close-x{
+    border-radius: 10px;
+    font-size: 20px !important;
+    border: 1px solid #DCDCDC;
+    background-color: #F5F5F5;
+    color: black;
+    width: 100%;
+    
+}
+ 
+.view-basket-modal .ant-modal-close {
+    right: 3% !important;
+    top: 5%;
+    width: 8%;
+    text-align: center
+}
+
+.empty-basket-icon{
+    font-size: 30px;
+}
+.basket-icon-topbar{
+    font-size: 30px;
+}
+.expand-icon{
+    font-size: 26px;
+    margin-left: 45%
+}
+.number-dishes-wrapper-topbar{
+    background-color: #FF331C;
+    border-radius: 30px;
+    width: 25px;
+    height: 25px;
+    padding: 3% 0%;
+    text-align: center;
+    z-index: 20;
+    margin-left: 50%;
+    bottom: 30%;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 18px;
+    position: absolute;
+}
+.ant-menu-horizontal{
+    border-radius: 10px 
+}
+.menu-title{
+    margin-top: 5%;
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    position: relative;
+}
+
+.menu-item-wrapper{
+    padding: 0
+}
+
+.ant-menu-horizontal{
+    line-height: 75px
+}
+
+.ant-menu-item-selected svg path {
+    fill: #FF331C
+}
+
+
+@media all and (max-width: 1920px) {
+    
+    .menu-item{
+        width: 16.67%;
+        font-size: 22px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        color: #000000;
+        text-align: center;
+    }
+    .menu-item-1{
+        width: 16.67%;
+        font-size: 22px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        color: #000000;
+        text-align: center;
+        border: 10px;
+        border-radius: 5px;
+    }
+    
+}
+
+@media all and (max-width: 1440px) {
+    .menu-item{
+        padding: 0.4rem 0rem;
+        font-size: 18px;
+    }
+}
+
+@media all and (max-width: 1280px) {
+    .menu-item{
+        padding: 0.3rem 0rem;
+        font-size: 18px;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .menu-item{
+        padding: 0.2rem 0rem;
+        font-size: 18px;
+    }
+}
+

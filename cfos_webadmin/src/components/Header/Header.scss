@@ -1,0 +1,16 @@
+.header-container {
+  background: #343a40;
+  padding: 0 30px;
+  display: flex;
+  .header-page {
+    width: 100%;
+    color: white;
+    margin-left: 250px;
+  }
+  .user-icon {
+    font-size: 24px;
+    color: white;
+    margin: 15px;
+    cursor: pointer;
+  }
+}

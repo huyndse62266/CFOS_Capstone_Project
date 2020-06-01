@@ -1,0 +1,31 @@
+.card-header {
+  border-bottom: none;
+}
+.header-page-container {
+  display: flex;
+  padding: 20px;
+  .create-btn {
+    margin-right: 60%;
+  }
+}
+.edit-icon {
+  color: #1890ff;
+}
+.pag-staff-container {
+  margin-top: 20px;
+}
+.card-body {
+  &.staff-container {
+    margin: 0 1.25rem;
+    background: #fafafa;
+  }
+  .header-table {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+  }
+  .ant-table {
+    background: white;
+    font-size: 15px;
+  }
+}

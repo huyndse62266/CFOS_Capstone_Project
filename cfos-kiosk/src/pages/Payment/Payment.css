@@ -1,0 +1,124 @@
+.membership-payment-container{
+    height: 100vh;
+    background-color: #F6F6F6
+}
+.banner{
+    background-color: #4A4A4A;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.text-banner{
+    color: #fff;
+}
+
+.image-border{
+    border: 2px solid;
+    border-radius: 10px;
+    width: 23%;
+    margin-top: 15%
+}
+.image-style{
+    width: 100px;
+    height: 100px;
+}
+.qr-text-div{
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+.button-border-div{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.button-custom{
+    height: 50px;
+    background-color: #4A4A4A
+}
+.cart-payment-div{
+    padding-right: 7rem
+}
+.choose-payment-container{
+    height: 100vh;
+}
+.payment-type-container{
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    height: 100%;
+    padding-left: 2%
+}
+.back-page-wrapper{
+    padding: 3% 4%
+}
+.arrow-button{
+    padding: 5% 10%;
+    border-radius: 10px;
+    width: 100%;
+    border: 1px solid gray
+}
+.payment-process{
+    padding: 6% 0%;
+    color: #212121
+}
+.cancel-membership-button{
+    width: 100%;
+    margin-top: 30%;
+    color: #212121;
+    background-color: #F5F5F5;
+}
+
+.arrow-icon-choose-payment{
+    font-size: 40px
+}
+
+.back-arrow-icon-membership{
+    font-size: 40px
+}
+.card-swipe-img{
+    width: 35%
+}
+
+.cancel-btn-modal{
+    color:#212121;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    background-color: #FFF;
+    border: 1px solid #DCDCDC;
+    border-radius: 8px;
+    padding: 1% 7%;
+    margin-right: 2%;
+}
+
+.submit-btn-modal{
+    color:#FFF;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    background-color: #EB2C17;
+    border-radius: 8px;
+    padding: 1% 7%
+
+}
+.submit-disable-btn-modal{
+    color:#FFF;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    background-color: #EB2C17;
+    border-radius: 8px;
+    padding: 1% 7%;
+    opacity: 0.2 !important;
+}
+.ant-modal-footer{
+    border-top: none !important;
+    padding: 0% 10% 3% 0% !important
+}
+.payment-membership-modal  .ant-modal-close{
+    display: none;
+}

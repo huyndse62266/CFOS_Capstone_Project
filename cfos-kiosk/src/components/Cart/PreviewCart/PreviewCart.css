@@ -1,0 +1,168 @@
+
+.purchase-button-1{
+    width: 100%;
+    padding: 8% 0%;
+    background-color: #2657BE;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 7px;
+    box-shadow: 11px 11px 32px -8px #2657BE;
+}
+.img-button-wrapper{
+    height: 180px;
+}
+
+.img-wrapper-display-name{
+    width: 100%;
+    height: 160px;
+    margin-top: -15%;
+    z-index: 30;
+    background-image: linear-gradient(white,black);
+    padding: 0 !important
+}
+
+.img-preview-cart{
+    margin-top: -1%
+}
+.img{
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    margin-top: -15%;
+}
+.ant-modal-header{
+    padding: 11px 24px !important;
+  }
+
+
+.food-info-cart{
+    z-index: 50;
+    bottom: 43%;
+    color:white;
+    padding: 5% 0% 4% 5%;
+    background-image: linear-gradient(transparent, black);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px
+}
+.btn-dec{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    font-size: 15px;
+    padding: 30% 5%;
+    color:white
+}
+.btn-dec-icon{
+    margin-bottom: 50%;
+
+}
+.btn-inc{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    font-size: 15px;
+    padding: 0% 3%;
+    margin-left: -10%;
+    color:white
+}
+.display-quantity-1{
+    color:white;
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    padding: 4% 0%;
+    text-align: center
+}
+.mini-cart-wrapper{
+    height: 100vh;
+    padding: 0% 10%;
+    background-color: #fff;
+}
+.store-name-cart-item{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    color: #212121
+}
+
+.dec-inc-cart-item-simple{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #FF381D , #FF5E25); 
+    border-radius: 7px;
+}
+.store-location-icon{
+    font-size: 180%;
+}
+
+.food-name-cart-btn{
+    background: none;
+    padding: 0 !important;
+    border: 0 !important;
+}
+@media all and (max-width: 1920px) {
+    
+    .trash-button{
+        margin-top: 10px;
+        width: 26px;
+        height: 30px;
+        /* padding: 3% 5%; */
+        background-color: #30394D;
+        color: white;
+        padding: 0 !important;
+        z-index: 40;
+    }
+    .total-price-wrapper{
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width: 1440px) {
+
+    .trash-button{
+        top: 5px;
+        width: 22px;
+        height: 24px;
+        padding: 3% 5%;
+        background-color: #30394D;
+        color: white;
+        padding: 0 !important
+    }
+    .total-price-wrapper h6{
+        font-size: 14px;
+    }
+
+
+}
+
+@media all and (max-width: 1280px) {
+
+    .trash-button{
+        top: 5px;
+        width: 22px;
+        height: 24px;
+        padding: 3% 5%;
+        background-color: #30394D;
+        color: white;
+        padding: 0 !important
+    }
+    .total-price-wrapper h6{
+        font-size: 12px;
+    }
+    
+
+}
+
+@media all and (max-width: 1024px) {
+    .total-price-wrapper h6{
+        font-size: 12px;
+    }
+    .close-button-item-cart-wrapper{
+        padding: 0.2rem 0.5rem;
+    }
+}

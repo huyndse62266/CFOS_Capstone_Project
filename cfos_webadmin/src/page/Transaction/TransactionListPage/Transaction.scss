@@ -1,0 +1,27 @@
+.header-page-container-transaction {
+  display: flex;
+  padding: 20px;
+  .select-btn {
+    margin-right: 60%;
+    width: 60%;
+  }
+}
+
+.pag-container-trans {
+  margin-top: 20px;
+}
+.card-body {
+  &.transaction-container {
+    margin: 0 1.25rem;
+    background: #fafafa;
+  }
+  .header-table {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+  }
+  .ant-table {
+    background: white;
+    font-size: 15px;
+  }
+}

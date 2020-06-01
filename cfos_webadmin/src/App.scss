@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+body {
+  font-family: Roboto, sans-serif;
+}
+.app-container {
+  height: 100vh;
+  .ant-layout-sider-children {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  .page-container {
+    padding: 16px;
+    margin: 0;
+    overflow: auto;
+    .page-content {
+      background: white;
+      padding: 16px;
+      min-height: 100%;
+    }
+  }
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #a0a0a0;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

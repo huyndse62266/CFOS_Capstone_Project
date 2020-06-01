@@ -1,0 +1,15 @@
+.card-body {
+  &.fc-container {
+    margin: 0 1.25rem;
+    background: #fafafa;
+  }
+  .header-table {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+  }
+  .ant-table {
+    background: white;
+    font-size: 15px;
+  }
+}

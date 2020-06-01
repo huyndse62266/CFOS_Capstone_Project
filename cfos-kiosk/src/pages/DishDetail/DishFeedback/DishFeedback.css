@@ -1,0 +1,97 @@
+.info-feedback-container{
+    padding: 2% 0% 2% 2%;
+    color: #000000
+}
+.feedback-info{
+    padding: 2% 0%
+}
+.avarage-star-icon{
+    color:#FF331C;
+    margin-right: 2%
+}
+.rate-count{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600   
+}
+.star-rate-style{
+    color: orange;
+    font-size: 10px;
+    margin-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 2%
+}
+.fa-2x{
+    margin-right: 4px;
+}
+
+.number-feedback{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600  
+}
+
+.food-info{
+    padding: 5% 0%
+}
+
+.food-price{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.food-court-info{
+    padding: 2% 0%
+}
+
+.food-court-address{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.feedback-container{
+    padding-right: 2%
+}
+
+.no-feedback-img{
+    margin-top: 15%;
+    width: 50%
+}
+
+.comment-press-meal{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #AAAAAA
+}
+
+.feedback-wrapper{
+    border: 0.5px solid lightgray;
+    border-radius: 5px;
+    margin: 2% 0%
+}
+
+.icon-wrapper{
+    font-size: 25px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+}
+.feedback-content{
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 1%;
+    padding-right: 1.5%
+}
+
+.store-location-icon-feedback{
+    font-size: 27px;
+}
+
+.number-feedback-icon{
+    color: #FF331C
+}
+
+.comment-icon{
+    font-size: 35px;
+    margin-top: 18%
+}

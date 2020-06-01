@@ -1,0 +1,238 @@
+.border-custom{
+    border: 1px solid lightgray !important;
+    border-radius: 10px;
+}
+.order-id-div{
+    background-color: #4A4A4A;
+    border-radius: 5px;
+    color: 'white';
+}
+.order-id-text{
+    color: #fff;
+    padding-bottom: 0 !important;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+.button-custom{
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 5%;
+    color:#212121;
+    /* padding: 2% 0% 10% 0% */
+}
+.complete-order-container{
+    height: 100vh;
+    background-color: #F6F6F6
+}
+
+.number-pad-border{
+    padding-right: 8rem;
+  }
+
+.back-home-button{
+  height: 100%;
+  width: 90%;
+  font-size: 24px;
+  /* padding: 4% 0%; */
+  border-radius: 10px;
+  border: 2px solid #D2D2D2;
+  background-color: #F6F6F6
+}
+.move-menu-button{
+  height: 100%;
+  width: 100%;
+  padding: 2.5% 2%;
+  margin-left: 10%;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #FF331C , #FF6126); 
+  box-shadow: 0px 10px 44px -13px #FF6126;
+  color:white
+}
+
+.dish-icon{
+  font-size: 35px;
+}
+.arrow-icon-check-order{
+  font-size: 40px;
+}
+.order-status-wrapper{
+    height: 80%;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #FFFFFF
+}
+.check-order-container{
+    height: 100vh;
+    background-color: #F6F6F6;
+}
+
+.check-status-icon-order-page{
+  font-size: 310%;
+  padding: 2%
+}
+
+
+.display-number-border{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  .display-number-panel{
+    position: relative;
+    background-color: #E6E6E6;
+    border-radius: 10px
+  }
+
+  .display-number{
+    text-align: center;
+    color: #AAAAAA
+  }
+  .icon-search{
+    text-align: center;
+    padding: 5% 0%;
+    font-size: 30px;
+  }
+  .number-div{
+    width: 100%;
+    height: 11vh;
+    font-size: 32px;
+    font-weight: 500;
+    font-family: 'Roboto';
+    border-radius: 10px;
+    background-color: #D2D2D2;
+  }
+  .search-numberpad-button{
+    width: 100%;
+    height: 11vh;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: #D2D2D2;
+  }
+  .title-input-order-number-1{
+    font-weight: bold;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 33px;
+    margin-bottom: 0 !important
+  }
+  .title-input-order-number-2{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+  }
+  .order-number-title{
+    font-size: 32px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    padding: 2% 0%
+  }
+  .display-message-success{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color:#212121;
+    text-align: center;
+    bottom: 20px;
+  }
+  .thank-you-message{
+    text-align: center;
+    font-size: 42px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color:#212121;
+    bottom: 20px;
+  }
+  .display-order-number{
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    height: 35%;
+    width: 85%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    border-radius: 10px;
+    padding: 4% 0%;
+    margin: 15% 0;
+    background-color: #FF331C
+  }
+  .notifi-mess-wrapper{
+    width: 100%;
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color:#212121;
+    background-color: #F6F6F6;
+    text-align: center;
+    border: 3px dashed lightgray;
+    border-radius: 10px;
+    padding: 2% 2%
+  }
+  .back-home-button-wrapper{
+    margin-top: 18%;
+    padding: 0% 10%
+  }
+  .warning-wrapper{
+    z-index: 5;
+    top: 30px;
+    left: 30px;
+    background-color: #FFEAC1;
+    width: 30%;
+    padding: 1% 0%;
+    border-radius: 10px;
+  }
+  .warning-icon-wrapper{
+    text-align: center;
+    padding: 8% 10%;
+  }
+  .warning-info{
+    padding: 0% 3%;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+  
+  }
+  .no-order{
+    padding: 10% 0%;
+    font-weight: bold;
+    text-align: center
+  }
+  .follow-img{
+    width: 40%;
+    margin-bottom: 4%;
+  }
+
+  .long-back-arrow-icon{
+    font-size: 40px;
+    /* margin-top: 5%;
+    margin-left: 50% */
+  }
+  .input-follow-title{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #AAAAAA;
+  }
+.display-order-status-wrapper{
+  padding-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.number-pad{
+  padding-top: 10%;
+  height: 100%;
+  background-color: #FFF
+}
+
+.comple-cart-img{
+  width: 25%;
+}
+.bill-icon-check-order{
+  font-size: 40px;
+}
+
+.numberpad-wrapper{
+  box-shadow: 0px 0px 39px -18px rgba(0,0,0,0.75);
+  margin-left: 1%;
+  height: 100%;
+}

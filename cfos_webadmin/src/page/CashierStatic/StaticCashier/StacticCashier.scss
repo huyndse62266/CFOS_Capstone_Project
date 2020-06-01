@@ -1,0 +1,83 @@
+.header-static-cashier-container {
+  display: flex;
+  padding: 20px;
+  .revenue-container {
+    display: flex;
+    background-color: #5cb75c;
+    height: 100px;
+    width: 100%;
+    .revenue-image {
+      float: right;
+      right: 0px;
+      padding: 5px 10px 5px 0px;
+      width: 60%;
+      opacity: 0.2;
+    }
+    .data-revenue-container {
+      padding-left: 20px;
+      padding-top: 15px;
+      width: 100%;
+    }
+  }
+}
+.header-static-cashier-bottom-container {
+  display: flex;
+  padding: 20px;
+  .revenue-container {
+    display: flex;
+    margin-right: 2%;
+    background-color: #00c0ef;
+    height: 150px;
+    width: 100%;
+    .revenue-image {
+      float: right;
+      right: 0px;
+      padding: 25px 15px 15px 0px;
+      width: 60%;
+      opacity: 0.2;
+    }
+    .data-revenue-container {
+      padding-left: 20px;
+      padding-top: 40px;
+      width: 100%;
+    }
+  }
+  .success-container {
+    display: flex;
+    margin-right: 2%;
+    background-color: #efad4e;
+    height: 150px;
+    width: 100%;
+    .success-image {
+      float: right;
+      right: 0px;
+      padding: 25px 15px 15px 0px;
+      width: 60%;
+      opacity: 0.2;
+    }
+    .data-success-container {
+      padding-left: 20px;
+      padding-top: 40px;
+      width: 100%;
+    }
+  }
+  .cancle-container {
+    background-color: #d9534f;
+    height: 150px;
+    display: flex;
+    width: 100%;
+    .cancle-image {
+      float: right;
+      right: 0px;
+      padding: 25px 15px 15px 0px;
+      width: 60%;
+      opacity: 0.2;
+    }
+    .data-cancle-container {
+      padding-left: 20px;
+      padding-top: 40px;
+      padding-right: 15%;
+      width: 100%;
+    }
+  }
+}

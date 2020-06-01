@@ -1,0 +1,61 @@
+.header-static-container {
+  display: flex;
+  padding: 20px;
+  .revenue-container {
+    display: flex;
+    margin-right: 2%;
+    background-color: #5cb75c;
+    height: 100px;
+    width: 100%;
+    .revenue-image {
+      float: right;
+      right: 0px;
+      padding: 5px 10px 5px 0px;
+      width: 60%;
+      opacity: 0.2;
+    }
+    .data-revenue-container {
+      padding-left: 20px;
+      padding-top: 15px;
+      width: 100%;
+    }
+  }
+  .success-container {
+    display: flex;
+    margin-right: 2%;
+    background-color: #efad4e;
+    height: 100px;
+    width: 100%;
+    .success-image {
+      float: right;
+      right: 0px;
+      padding: 5px 10px 5px 0px;
+      width: 60%;
+      opacity: 0.2;
+    }
+    .data-success-container {
+      padding-left: 20px;
+      padding-top: 15px;
+      width: 100%;
+    }
+  }
+  .cancle-container {
+    background-color: #d9534f;
+    height: 100px;
+    display: flex;
+    width: 100%;
+    .cancle-image {
+      float: right;
+      right: 0px;
+      padding: 5px;
+      width: 60%;
+      opacity: 0.2;
+    }
+    .data-cancle-container {
+      padding-left: 20px;
+      padding-top: 15px;
+      padding-right: 15%;
+      width: 100%;
+    }
+  }
+}

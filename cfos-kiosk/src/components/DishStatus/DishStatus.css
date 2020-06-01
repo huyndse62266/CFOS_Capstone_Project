@@ -1,0 +1,129 @@
+.dish-detai-wrapper{
+    padding: 2% 0%;
+    border-bottom: 1px solid #DCDCDC
+}
+.status-finish{
+    color: #2CC200 !important;
+    font-size: 24px !important;
+    font-weight: bold !important;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    font-family: 'Roboto';
+}
+.status-finish-description{
+    font-size: 16px;
+    font-weight: 500 !important;
+    font-family: 'Open Sans', sans-serif;
+    color: #353535;
+    width: 100%;
+    font-family: 'Roboto';
+
+}
+.done-icon{
+    font-size: 50px;
+}
+
+.cancel-close-icon{
+    font-size: 50px;
+    color:red
+}
+
+.cancel-status-title{
+    color: red !important;
+    font-size: 24px !important;
+    font-weight: bold !important;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    font-family: 'Roboto';
+}
+
+.cancel-description{
+    font-size: 16px;
+    font-weight: 500 !important;
+    font-family: 'Open Sans', sans-serif;
+    color: #353535;
+    width: 100%;
+    font-family: 'Roboto';
+
+}
+
+.status-waiting{
+    color: #FFA200 !important;
+    font-size: 28px !important;
+    font-weight: bold !important;
+    width: 100%;
+    padding-right: 10px
+}
+
+img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.order-detail-quantity{
+    border: 1px solid;
+    border-radius: 10px;
+    width: 75%;
+    padding: 9% 0%;
+}
+  .quantity-col h4{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.dish-status{
+    /* height: 80px; */
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    font-size: 20px;
+    padding-right: 2%;
+  }
+  .dish-status h4{
+    margin: 0;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+.image-order-detail{
+    border-radius: 15px;
+    height: 100%;
+    z-index: -20;
+}
+
+.food-option-check-order{
+    padding: 2% 3%;
+    border: 1px solid #D2D2D2;
+    border-radius: 7px;
+    color:#212121;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    word-wrap: break-word;
+    max-width: 100%;
+    max-height: 65px;
+}
+
+.dish-status-promotion{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 78%;
+    padding: 4% 0%;
+    width: 28%;
+    text-align: center;
+    border-radius: 9px;
+    background-color: #30394D;
+    color:#FFF;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold
+}
+
+.img-dish-status-wrapper{
+    height: 140px;
+    
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.026" height="40.952" viewBox="0 0 29.026 40.952">
+  <g id="Group_3987" data-name="Group 3987" transform="translate(34.6 17.6)">
+    <g id="Bill_icon" data-name="Bill icon" transform="translate(-34 -17)">
+      <path id="layer1" d="M19,20h6.625M19,30.6h5.3M19,25.3h5.3M19,35.9h2.65" transform="translate(-13.7 -8.074)" fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="layer2" d="M18.95,2ZM26.9,2ZM34.785,2Zm4.041,3.975L34.785,2,30.876,4.65,26.9,2,22.926,4.65,18.95,2,14.975,4.65,11,2V37.777l4.041,3.975L18.95,39.1l3.975,2.65L26.9,39.1l3.975,2.65,3.975-2.65,3.975,2.65ZM30.876,41.752ZM22.926,41.752ZM15.041,41.752Z" transform="translate(-11 -2)" fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="layer1-2" data-name="layer1" d="M41.559,21.283A3.313,3.313,0,0,0,38.313,18.5,3.068,3.068,0,0,0,35,21.548c0,1.855,1.656,2.65,3.313,3.048" transform="translate(-19.099 -7.568)" fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+      <path id="layer1-3" data-name="layer1" d="M35,26.932a3.313,3.313,0,0,0,3.313,3.313A3.445,3.445,0,0,0,41.625,26.8c0-1.855-1.656-2.65-3.313-3.048m0-6.1V16m0,15.9V30.244" transform="translate(-19.099 -6.725)" fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

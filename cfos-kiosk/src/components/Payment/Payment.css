@@ -1,0 +1,158 @@
+.membership-btn{
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 3% 0%;
+    color:#000000;
+    background-color: #FFFFFF;
+}
+.card-button{
+    width: 100%;
+    height: 50px;
+    color: white;
+    font-weight: bold
+}
+.cash-button{
+    width: 100%;
+    height: 130px;
+    text-align: left;
+    padding-top: 0.5rem;
+    padding-left: 2rem;
+    border-radius: 10px;
+    background-color: #E6E6E6
+}
+.choose-payment-title{
+    margin-bottom: 5%;
+}
+.payment-title-sub{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #4A4A4A
+}
+.total-price-choose-payment-wrapper{
+    color: #2657BE;
+    text-align: center;
+    margin-bottom: 5%;
+    padding: 2% 0% ;
+    border: 2px solid #2657BE;
+    border-radius: 10px;
+    width: 100%
+}
+.icon-type{
+    text-align: center;
+    font-size: 60px;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+}
+.money-type{
+    text-align: center;
+    font-size: 50px;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+}
+
+.on-cash-title{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #000000  
+}
+.on-cash-mess{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #4A4A4A
+}
+.type-group-wrapper{
+    padding-top: 4%
+}
+.payment-card-img{
+    width: 15%;
+    margin: 0% 5%;
+}
+.payment-membership-card-img{
+    width: 25%;
+}
+.img-border{
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    width: 95px;
+    height: 55px;
+    padding: 3% 2%;
+    margin: 0% 2%
+}
+.overview-basket-title{
+    padding: 8% 5% 2% 5%
+}
+.your-basket-title{
+    font-weight: 800;
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0
+}
+.number-basket-item{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #AAAAAA;
+    margin-bottom: 0
+}
+.basket-icon-wrapper{
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+}
+.edit-button{
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #2657BE;
+    padding: 6% 4% 5% 0% ;
+    border-radius: 8px;
+    margin-top: 15%;
+    box-shadow: 11px 11px 32px -8px rgba(38,87,190,1);
+}
+
+.choose-payment-container{
+    /* height: 100vh; */
+    background-color: #F6F6F6
+}
+
+.overview-basket-container{
+    padding: 0% 5%;
+    height: 100%;
+    background-color: #FFFFFF
+}
+
+.on-cash-btn{
+    width: 100%;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 3% 0%
+}
+
+.total-price-choose-payment-title{
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.price-cart-icon{
+    font-size: 45px;
+}
+
+.payment-type-wrapper{
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin-bottom: 5%;
+    padding: 3% 0%
+}
+
+.edit-dish-icon{
+    font-size: 40px;
+}

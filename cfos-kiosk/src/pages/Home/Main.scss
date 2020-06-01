@@ -1,0 +1,84 @@
+
+.home-container{
+    background-image: url(../../images//MainPage.png );
+    height: 100vh;
+    width: 100%;
+}
+.group-button{
+    padding-top: 45%
+}
+.check-status-icon{
+    font-size: 150%;
+}
+.menu-food-icon{
+    font-size: 150%;
+    color: #FFF
+}
+.check-status-title-button{
+    margin-bottom: 5%;
+    padding: 0% 5%
+}
+@media all and (max-width: 1920px) {
+    .button-check{
+        width: 50%;
+        border: 1px solid #D2D2D2;
+        border-radius: 5px;
+        background-color: white;
+        font-size: 25px;
+        color: black;
+        font-weight: 500;
+        padding: 2% 0% 2% 2%
+        // padding: 2% 0%;
+    }
+    .button-order{
+        width: 50%;
+        border-radius: 5px;
+        background-color: #f5222d;
+        font-size: 25px;
+        color: white;
+        font-weight: 500;
+        padding: 2% 0% 2% 0%
+    }
+}
+
+@media all and (max-width: 1440px) {
+    .button-check{
+        width: 40%;
+        height: 60px;
+        border-radius: 5px;
+        background-color: #f5222d;
+        font-size: 13px;
+        color: white;
+        font-weight: 500
+    }
+    .button-order{
+        width: 40%;
+        height: 60px;
+        border-radius: 5px;
+        background-color: mediumturquoise;
+        font-size: 13px;
+        color: white;
+        font-weight: 500
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .button-check{
+        width: 40%;
+        height: 50px;
+        border-radius: 5px;
+        background-color: limegreen;
+        font-size: 11px;
+        color: white;
+        font-weight: 500
+    }
+    .button-order{
+        width: 40%;
+        height: 50px;
+        border-radius: 5px;
+        background-color: mediumturquoise;
+        font-size: 11px;
+        color: white;
+        font-weight: 500
+    }
+}

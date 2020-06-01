@@ -1,0 +1,53 @@
+.food-container {
+  padding-left: 260px;
+  padding-top: 2%;
+  .card {
+    padding: 20px;
+    .header-wrapper {
+      display: flex;
+      .header-page {
+        font-size: 18px;
+        font-weight: 600;
+        width: 100%;
+      }
+    }
+    .panel-item {
+      background: #f7f7f7;
+      border-radius: 4px;
+      margin-bottom: 24px;
+      border: 0;
+      overflow: hidden;
+      .sub-cate-item {
+        display: flex;
+        background: white;
+        padding: 5px;
+        border-bottom: solid 1px #ccc;
+        margin-bottom: 5px;
+        .text-item {
+          width: 100%;
+          padding-left: 21px;
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
+.image {
+  width: 150px;
+  height: 100px;
+}
+.ant-upload-list-item-info > span {
+  height: 100%;
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+

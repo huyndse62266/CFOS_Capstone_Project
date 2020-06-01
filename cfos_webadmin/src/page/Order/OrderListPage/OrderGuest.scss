@@ -1,0 +1,29 @@
+.order-guest {
+  // zoom: 1;
+  // max-height: 300px;
+  // overflow: auto;
+  .header-page-order-guest {
+    display: flex;
+    padding: 20px;
+    .create-btn {
+      margin-right: 50%;
+    }
+  }
+  .card-body {
+    &.order-guest-container {
+      margin: 0 1.25rem;
+      background: #fafafa;
+    }
+    .header-order-guest {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 50px;
+    }
+    .ant-table {
+      background: white;
+      font-size: 15px;
+    }
+    margin: 0 1.25rem;
+    background: #fafafa;
+  }
+}

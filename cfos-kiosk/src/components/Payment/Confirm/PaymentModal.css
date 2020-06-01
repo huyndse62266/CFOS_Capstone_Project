@@ -1,0 +1,20 @@
+.confirm-payment-modal-wrapper{
+    padding: 0% 5%;
+}
+.text-border{
+    padding: 1.5% 0%;
+    border-bottom: 1px solid #DCDCDC;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #212121
+}
+.check-circle-icon{
+    font-size: 50px;
+    color: #19C600
+}
+.confirm-payment-title{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #212121
+}

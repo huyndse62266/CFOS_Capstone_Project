@@ -1,0 +1,139 @@
+.basket-item-wrapper{
+    border: 1px solid #D2D2D2;
+    border-radius: 25px;
+    padding: 0% 5% 5% 5%;
+    background-color: #FFF;
+    box-shadow: 0px 0px 13px -4px rgba(0,0,0,0.75);
+}
+.trash-button-item-cart{
+    padding: 0% 5%
+}
+.display-quantity{
+    padding: 9% 0%;
+    text-align: center;
+    background-color: #fff;
+    height: 100%;
+    color:#212121
+}
+.basket-header{
+   margin: 0 3%;
+   top: 20%
+}
+.food-name-basket{
+    padding: 5% 5%;
+    z-index: 2;
+    bottom: 32%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-image: linear-gradient(transparent, black);
+}
+
+.img-wrapper-basket-item{
+    width: 100%;
+    height: 180px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* margin-top: -15%; */
+    z-index: 30;
+    background-image: linear-gradient(white,black);
+}
+
+.image-basket{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.food-name-basket h6 {
+    color: white
+}
+.customer-wrapper {
+    border: 1px solid #DCDCDC;
+    border-radius: 7px;
+    padding: 2% 3%;
+    max-width: 100%;
+}
+.info-basket{
+    height:180px;
+}
+.edit-basket{
+    padding-top: 13%;
+    padding-bottom: 5%;
+}
+.custom-title{
+    padding: 5% 0%;
+    font-weight: 700
+}
+
+.remove-basket-button{
+    height: 85%;
+    
+    background-color: #F6F6F6;
+    font-size: 20px;
+    border-radius: 7px
+}
+.dec-button-basket{
+    width: 100%;
+    height: 35px;
+    color:#212121;
+    background-color: #fff;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    padding: 15% 5%;
+    border-radius: 10px;
+}
+.inc-button-basket{
+    width: 100%;
+    height: 35px;
+    color:#212121;
+    background-color: #fff;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 15% 5%;
+    border-radius: 10px;
+    
+}
+.quantity-wrapper{
+    border: 2px solid #DCDCDC;
+    border-radius: 10px;
+}
+
+
+@media all and (max-width: 1920px) {
+    .customize-order-button{
+        border: 1px solid #d4380d;
+        border-radius: 7px;
+        background-color: #FFF;
+        color: #d4380d;
+        width: 100%;
+        height: 40px;
+        font-size: 16px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 800;
+    }
+
+}
+
+@media all and (max-width: 1440px) {
+
+   
+    .customize-order-button{
+        background-color: #40a9ff;
+        color: white;
+        width: 100%;
+        font-size: 11px
+    }
+
+}
+
+@media all and (max-width: 1280px) {
+
+    
+    .customize-order-button{
+        background-color: #40a9ff;
+        color: white;
+        width: 100%;
+        font-size: 9px
+    }
+
+}

@@ -1,0 +1,42 @@
+.order-chef-container {
+  height: 100vh;
+  background-color: #2b2b2b;
+  .table-container {
+    .row-custom {
+      background: #212121;
+    }
+  }
+  .ant-table-thead {
+    font-size: 25px;
+    .ant-table-header-column {
+      color: white;
+    }
+  }
+  .ant-table-thead > tr {
+    background-color: black;
+  }
+
+  .ant-table-tbody {
+    font-size: 30px;
+    background-color: #2b2b2b;
+  }
+  .ant-table-row {
+    border-radius: 100px;
+  }
+  .ant-table-placeholder {
+    background-color: #2b2b2b;
+  }
+  .ant-empty-description {
+    color: white;
+  }
+  // .ant-table-wrapper {
+  //   max-height: 550px;
+  //   overflow: auto;
+  // }
+  .ant-table-thead > tr.ant-table-row-hover:not(.ant-table-expanded-row) > td,
+  .ant-table-tbody > tr.ant-table-row-hover:not(.ant-table-expanded-row) > td,
+  .ant-table-thead > tr:hover:not(.ant-table-expanded-row) > td,
+  .ant-table-tbody > tr:hover:not(.ant-table-expanded-row) > td {
+    background: transparent;
+  }
+}

@@ -1,0 +1,183 @@
+
+.button{
+    background-color: #FFFFFF;
+    border-radius: 0;
+    width: 100%;
+    height: 100%;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    font-weight: bold;
+    color: white
+}
+
+
+
+.image-info{
+    height: 220px;
+    border-radius: 5px
+}
+.info-container{
+    width: 100%;
+    padding: 1% 2%;
+}
+
+.quantity-button-wrapper{
+    border-radius: 5px;
+    width: 100%;
+    padding-right: 4px;
+    border: 1px solid
+}
+.display-quantity-div{
+    text-align: center;
+    font-weight: bold;
+    height: 100%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+    font-weight: 400 !important;
+    font-size: 28px;
+    padding-top: 5%
+}
+.cart-button{
+    font-size: 25px;
+    padding: 5% 8%;
+    border-radius: 8px;
+    color:white;
+    background-color: #2657BE;
+    font-weight: bold;
+    box-shadow: 11px 11px 32px -8px #2657BE;
+}
+.cart-plus-icon{
+    font-size: 30px;
+    margin-right: 5%
+}
+
+.total-price-dish-info{
+    font-weight: bold;
+    text-align: right;
+    width: 100%;
+    padding: 4%;
+}
+
+.size-label{
+    line-height: 150% !important;
+    padding: 5% 0%;
+}
+.price-size{
+    font-weight: 300 !important
+}
+.choose-price-label{
+    line-height: 300% !important;
+}
+
+
+/* css button  */
+.form .plan input:checked + label, .form .payment-plan input:checked + label, .form .payment-type input:checked + label{
+	border: 3px solid #333;
+    background-color: #30394D;
+    color:white
+}
+
+.form .plan input:checked + label:after, form .payment-plan input:checked + label:after, .form .payment-type input:checked + label:after{
+	content: "\2713";
+	width: 30px;
+	height: 30px;
+	line-height: 25px;
+	border-radius: 100%;
+	border: 2px solid #fff;
+    background-color: #30394D;
+    color: #fff;
+	z-index: 999;
+	position: absolute;
+	top: -10px;
+	right: -10px;
+}
+
+.option-title{
+    padding: 2% 0%;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.form .plan input, .form .payment-plan input, .form .payment-type input{
+	display: none;
+}
+
+.radio-button-label{
+	position: relative;
+	color: #353535;
+	background-color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+	text-align: center;
+	height: 70px;
+	line-height: 350%;
+	display: block;
+	cursor: pointer;
+	border: 2px solid #30394D;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 5% 10% 5% 0%;
+    white-space: pre-wrap
+}
+
+.check-box-label{
+	position: relative;
+	color: #353535;
+	background-color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+	text-align: center;
+	height: 70px;
+    line-height: 130%;
+    padding: 7% 0%;
+	display: block;
+	cursor: pointer;
+	border: 2px solid #30394D;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 5% 10% 5% 0%;
+    white-space: pre-wrap;
+}
+
+/* hết đoạn css radio-button */
+
+.food-court-icon{
+    font-size: 25px;
+}
+
+.store-name-info{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #212121 !important
+}
+
+.food-description{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.promotion-icon{
+    font-size: 27px;
+}
+
+.restore-btn{
+    background-color: #F6F6F6;
+    /* display: none; */
+}
+
+.reset-icon{
+    font-size: 27px 
+}
+
+.dec-inc-dish-info{
+    padding: 17% 33%;
+    font-size: 20px;
+}
